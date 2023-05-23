@@ -1,9 +1,9 @@
 ---
 section: online-help
-title: 9fde9515d3a1ede8d6f12a1892c894ec
+title: Guida in linea
 entries:
 - title: Introduzione a Active IQ Unified Manager
-  pdf-filename: d667ab1eefcedffdc31f52ebff9d478d
+  pdf-filename: Introduzione a Active IQ Unified Manager (gestione e monitoraggio)
   url: "/online-help/concept-introduction-to-unified-manager.html"
   entries:
   - title: Introduzione al monitoraggio dello stato di salute di Active IQ Unified
@@ -54,7 +54,7 @@ entries:
   - title: Risoluzione dei problemi di ONTAP direttamente da Unified Manager
     url: "/online-help/concept-fixing-ontap-issues-directly-from-unified-manager.html"
     entries:
-    - title: 21287f9310da73025b9619111ce2ce7e
+    - title: Quali opzioni ho quando vedo il  pulsante Correggi o Correggi tutto
       url: "/online-help/concept-what-options-do-i-have-when-i-see-the-fix-it-button.html"
     - title: Visualizzazione dello stato delle azioni di gestione che si è scelto
         di correggere
@@ -1498,7 +1498,7 @@ entries:
   url: "/online-help/concept-troubleshooting.html"
   entries:
   - title: Modifica del nome host di Unified Manager
-    pdf-filename: 19966a54541b838c85278932c36c8122
+    pdf-filename: Modifica del nome host di Unified Manager (gestione e monitoraggio)
     url: "/online-help/concept-changing-the-unified-manager-host-name.html"
     entries:
     - title: Modifica del nome host dell'appliance virtuale Unified Manager
@@ -1506,7 +1506,8 @@ entries:
     - title: Modifica del nome host di Unified Manager sui sistemi Linux
       url: "/online-help/task-changing-the-unified-manager-host-name-on-rhel-or-centos.html"
   - title: Aggiunta di spazio su disco alla directory del database di Unified Manager
-    pdf-filename: 433a3de67ad10a966d2b8b61c37210d2
+    pdf-filename: Aggiunta di spazio su disco alla directory del database di Unified
+      Manager (gestione e monitoraggio)
     url: "/online-help/concept-adding-disk-space-to-the-unified-manager-database-directory.html"
     entries:
     - title: Aggiunta di spazio al disco dati della macchina virtuale VMware
