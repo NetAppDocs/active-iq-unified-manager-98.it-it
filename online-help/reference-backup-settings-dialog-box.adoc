@@ -1,0 +1,66 @@
+---
+permalink: online-help/reference-backup-settings-dialog-box.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Definire la pianificazione del backup, il numero di conservazione e, quando si utilizza il metodo di backup dump del database MySQL, il percorso di backup per un"istanza di Unified Manager selezionata.' 
+---
+= Finestra di dialogo Backup Settings (Impostazioni di backup)
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Definire la pianificazione del backup, il numero di conservazione e, quando si utilizza il metodo di backup dump del database MySQL, il percorso di backup per un'istanza di Unified Manager selezionata.
+
+È possibile modificare le seguenti impostazioni di backup del database:
+
+* *Percorso*
++
+Quando si utilizza il metodo di backup dump del database MySQL, questo campo specifica il percorso in cui memorizzare i file di backup. Quando si utilizza il metodo di backup Snapshot, questa posizione mostra il cluster, la VM di storage e il volume su cui verrà memorizzato il backup.
+
++
+La seguente tabella specifica il formato del percorso di backup e le posizioni predefinite per i diversi sistemi operativi:
+
++
+|===
+| Sistema operativo host | Formato del percorso di backup 
+
+
+ a| 
+Appliance virtuale
+ a| 
+`/opt/netapp/data/ocum-backup`
+
+
+
+ a| 
+Red Hat Enterprise Linux o CentOS Linux
+ a| 
+`/data/ocum-backup`
+
+
+
+ a| 
+Microsoft Windows
+ a| 
+`C:\ProgramData\NetApp\OnCommandAppData\ocum\backup\`
+
+|===
+* *Conteggio conservazione*
++
+Specifica il numero massimo di backup che devono essere conservati da Unified Manager. Il valore predefinito è 10.
+
+* *Giornaliero pianificato*
++
+Specifica la pianificazione giornaliera del backup con l'ora.
+
+* *Settimanale pianificato*
++
+Specifica la pianificazione settimanale del backup con il giorno e l'ora.
+
+* *Nessuno*
++
+Specifica che non verranno creati backup.
+
+

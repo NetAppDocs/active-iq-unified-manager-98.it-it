@@ -1,0 +1,99 @@
+---
+permalink: online-help/reference-snapmirror-and-vault-relationship-events.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Gli eventi di relazione SnapMirror e Vault forniscono informazioni sullo stato delle relazioni asincrone SnapMirror e Vault, in modo da poter monitorare eventuali problemi. Gli eventi sono raggruppati in base all"area di impatto e includono il nome dell"evento e della trap, il livello di impatto, il tipo di origine e la severità.' 
+---
+= Eventi di relazione SnapMirror e Vault
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Gli eventi di relazione SnapMirror e Vault forniscono informazioni sullo stato delle relazioni asincrone SnapMirror e Vault, in modo da poter monitorare eventuali problemi. Gli eventi sono raggruppati in base all'area di impatto e includono il nome dell'evento e della trap, il livello di impatto, il tipo di origine e la severità.
+
+
+
+== Area di impatto: Protezione
+
+|===
+| Nome evento (nome trap) | Livello di impatto | Tipo di origine | Severità 
+
+
+ a| 
+Mirroring asincrono e vault non integri(ocumEvtMirrorVaultRelationshipUnintegro)
+ a| 
+Rischio
+ a| 
+Relazione di SnapMirror
+ a| 
+Attenzione
+
+
+
+ a| 
+Mirroring asincrono e vault interrotto(ocumEvtMirrorVaultRelationshipStateBrokenoff)
+ a| 
+Rischio
+ a| 
+Relazione di SnapMirror
+ a| 
+Errore
+
+
+
+ a| 
+Mirroring asincrono e inizializzazione del vault non riuscita (ocumEvtMirrorVaultRelationshipInitializeFailed)
+ a| 
+Rischio
+ a| 
+Relazione di SnapMirror
+ a| 
+Errore
+
+
+
+ a| 
+Aggiornamento asincrono del mirror e del vault non riuscito (ocumEvtMirrorVaultRelationshipUpdateFailed)
+ a| 
+Rischio
+ a| 
+Relazione di SnapMirror
+ a| 
+Errore
+
+
+
+ a| 
+Errore di mirroring asincrono e ritardo del vault (ocumEvtMirrorVaultRelationshipLagError)
+ a| 
+Rischio
+ a| 
+Relazione di SnapMirror
+ a| 
+Errore
+
+
+
+ a| 
+Mirror asincrono e Vault Lag Warning(ocumEvtMirrorVaultRelationshipLagWarning)
+ a| 
+Rischio
+ a| 
+Relazione di SnapMirror
+ a| 
+Attenzione
+
+
+
+ a| 
+Mirroring asincrono e risincronizzazione del vault non riuscita (ocumEvtMirrorVaultRelationshipResyncFailed)
+ a| 
+Rischio
+ a| 
+Relazione di SnapMirror
+ a| 
+Errore
+
+|===
