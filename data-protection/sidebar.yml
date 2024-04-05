@@ -1,6 +1,6 @@
 ---
 section: data-protection
-title: Proteggere e ripristinare i dati
+title: d549fcac9e4340e7fb3d154a339f9c13
 entries:
 - title: Creazione, monitoraggio e risoluzione dei problemi delle relazioni di protezione
   url: "/data-protection/concept-creating-and-monitoring-protection-relationships.html"
@@ -36,8 +36,7 @@ entries:
         relativi a volume/salute
       url: "/data-protection/task-resynchronizing-protection-relationships-from-the-health-volume-details-page.html"
   - title: Risoluzione di un errore di un lavoro di protezione
-    pdf-filename: Risoluzione di un errore di un processo di protezione (protezione
-      dei dati)
+    pdf-filename: daf5556e2cd44d363ebb94f982b54758
     url: "/data-protection/task-resolving-a-protection-job-failure.html"
     entries:
     - title: Identificazione del problema ed esecuzione di azioni correttive per un
@@ -46,7 +45,7 @@ entries:
   - title: Risoluzione dei problemi di ritardo
     url: "/data-protection/task-resolving-lag-issues.html"
 - title: Gestione e monitoraggio delle relazioni di protezione
-  pdf-filename: Gestione e monitoraggio delle relazioni di protezione (data Protection)
+  pdf-filename: 63c702324d7a2f1acfb2291776c09e62
   url: "/data-protection/concept-managing-and-monitoring-protection-relationships.html"
   entries:
   - title: Visualizzazione delle relazioni di protezione dei volumi
@@ -156,8 +155,7 @@ entries:
   - title: Tentativo di nuovo di un processo di protezione non riuscito
     url: "/data-protection/task-retrying-a-failed-protection-job.html"
   - title: Descrizione delle finestre di dialogo e delle relazioni di protezione
-    pdf-filename: Descrizione delle finestre di dialogo e delle relazioni di protezione
-      (protezione dei dati)
+    pdf-filename: 721e2c530014fb77b39a26e93e0ef94b
     url: "/data-protection/reference-description-of-protection-relationships-window-and-dialog-boxes.html"
     entries:
     - title: Pagina dei pool di risorse
