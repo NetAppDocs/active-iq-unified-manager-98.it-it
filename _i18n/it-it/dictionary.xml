@@ -12727,4 +12727,14 @@
   <block id="aa193eacf5a35a85044e44de3fa9c91a" category="sidebar">Video di Unified Manager</block>
   <block id="197833bfff97d501603036a0febb7a95" category="sidebar">Blog di Unified Manager</block>
   <block id="c0fd3a67a0f9d526734eae8cf8142cb4" category="sidebar">Documentazione per la versione più recente di Active IQ Unified Manager</block>
+  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">Guida in linea</block>
+  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">Introduzione a Active IQ Unified Manager (gestione e monitoraggio)</block>
+  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar">Quali opzioni ho quando vedo il <strong></strong><strong></strong> pulsante Correggi o Correggi tutto</block>
+  <block id="19966a54541b838c85278932c36c8122" category="sidebar">Modifica del nome host di Unified Manager (gestione e monitoraggio)</block>
+  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">Aggiunta di spazio su disco alla directory del database di Unified Manager (gestione e monitoraggio)</block>
+  <block id="c1a9193a29dc40ec352c6691d67ab578" category="sidebar">Installare Unified Manager su sistemi Windows</block>
+  <block id="a0af5ca8f7344392b5c82b109a63af72" category="sidebar">Introduzione a Active IQ Unified Manager (sistemi Windows)</block>
+  <block id="70104377094a1b08793fc5ab5e6bbf34" category="sidebar">Requisiti per l'installazione di Unified Manager (sistemi Windows)</block>
+  <block id="8d6c82b2ac4ea5256730039b09b01a10" category="sidebar">Installazione, aggiornamento e rimozione del software Unified Manager (sistemi Windows)</block>
+  <block id="013bd757b5f39b48944aa701029bfff3" category="sidebar">Aggiornamento di prodotti di terze parti (sistemi Windows)</block>
 </blocks>
